@@ -1,0 +1,840 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::ZLIB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__ZLIB-Debug-3d067edbdef3f9bb77a7.json",
+					"name" : "CURL::ZLIB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::libcurl_shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__libcurl_shared-Debug-4ec1999168cda50567c9.json",
+					"name" : "CURL::libcurl_shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::win32_winsock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__win32_winsock-Debug-16f07cc063a3e2f4d1fb.json",
+					"name" : "CURL::win32_winsock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::Crypto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__Crypto-Debug-129d5f2be13f53aa4755.json",
+					"name" : "OpenSSL::Crypto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::SSL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__SSL-Debug-2a2cb073118c3cf7447c.json",
+					"name" : "OpenSSL::SSL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::applink::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__applink-Debug-c9ebc6c0e9d0d8a4a519.json",
+					"name" : "OpenSSL::applink",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-Debug-d98249d14d62f6c6df42.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZLIB::ZLIB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZLIB__ZLIB-Debug-b84ca10a1d564b29a59a.json",
+					"name" : "ZLIB::ZLIB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "httplib::httplib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-httplib__httplib-Debug-e82300bfa318c35ec1e4.json",
+					"name" : "httplib::httplib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nlohmann_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nlohmann_json-Debug-2052c93a07e8f852f95d.json",
+					"name" : "nlohmann_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nlohmann_json::nlohmann_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nlohmann_json__nlohmann_json-Debug-386c4e012c26064fcb2f.json",
+					"name" : "nlohmann_json::nlohmann_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlicommon::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlicommon-Debug-64660e8daa48dc82c481.json",
+					"name" : "unofficial::brotli::brotlicommon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlidec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlidec-Debug-7759be52016f11d50a91.json",
+					"name" : "unofficial::brotli::brotlidec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlienc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlienc-Debug-f27785c3079b1118103b.json",
+					"name" : "unofficial::brotli::brotlienc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::sqlite3::sqlite3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__sqlite3__sqlite3-Debug-cdf75e03745a52ae7659.json",
+					"name" : "unofficial::sqlite3::sqlite3",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-b5805d5c08fd3d92def4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AIEmailAssistant",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-4f9a1c28328308fb8ba6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-0afd1f5d0af1a1dcae14.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ai_email_assistant::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ai_email_assistant-Debug-323b64c786cc555b5d76.json",
+					"name" : "ai_email_assistant",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::ZLIB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__ZLIB-Release-3d067edbdef3f9bb77a7.json",
+					"name" : "CURL::ZLIB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::libcurl_shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__libcurl_shared-Release-13c0a439fd6f25d5dadb.json",
+					"name" : "CURL::libcurl_shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::win32_winsock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__win32_winsock-Release-16f07cc063a3e2f4d1fb.json",
+					"name" : "CURL::win32_winsock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::Crypto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__Crypto-Release-129d5f2be13f53aa4755.json",
+					"name" : "OpenSSL::Crypto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::SSL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__SSL-Release-2a2cb073118c3cf7447c.json",
+					"name" : "OpenSSL::SSL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::applink::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__applink-Release-c9ebc6c0e9d0d8a4a519.json",
+					"name" : "OpenSSL::applink",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-Release-d98249d14d62f6c6df42.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZLIB::ZLIB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZLIB__ZLIB-Release-b84ca10a1d564b29a59a.json",
+					"name" : "ZLIB::ZLIB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "httplib::httplib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-httplib__httplib-Release-e82300bfa318c35ec1e4.json",
+					"name" : "httplib::httplib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nlohmann_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nlohmann_json-Release-2052c93a07e8f852f95d.json",
+					"name" : "nlohmann_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nlohmann_json::nlohmann_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nlohmann_json__nlohmann_json-Release-386c4e012c26064fcb2f.json",
+					"name" : "nlohmann_json::nlohmann_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlicommon::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlicommon-Release-4f4d85ca40490ee4c954.json",
+					"name" : "unofficial::brotli::brotlicommon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlidec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlidec-Release-c45aabe1da518f87aa63.json",
+					"name" : "unofficial::brotli::brotlidec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlienc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlienc-Release-0be58b27330290393e7f.json",
+					"name" : "unofficial::brotli::brotlienc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::sqlite3::sqlite3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__sqlite3__sqlite3-Release-e06804a626efd483f871.json",
+					"name" : "unofficial::sqlite3::sqlite3",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-b5805d5c08fd3d92def4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AIEmailAssistant",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-4f9a1c28328308fb8ba6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-0afd1f5d0af1a1dcae14.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ai_email_assistant::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ai_email_assistant-Release-11826850e88758c175f9.json",
+					"name" : "ai_email_assistant",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::ZLIB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__ZLIB-MinSizeRel-3d067edbdef3f9bb77a7.json",
+					"name" : "CURL::ZLIB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::libcurl_shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__libcurl_shared-MinSizeRel-13c0a439fd6f25d5dadb.json",
+					"name" : "CURL::libcurl_shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::win32_winsock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__win32_winsock-MinSizeRel-16f07cc063a3e2f4d1fb.json",
+					"name" : "CURL::win32_winsock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::Crypto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__Crypto-MinSizeRel-129d5f2be13f53aa4755.json",
+					"name" : "OpenSSL::Crypto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::SSL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__SSL-MinSizeRel-2a2cb073118c3cf7447c.json",
+					"name" : "OpenSSL::SSL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::applink::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__applink-MinSizeRel-c9ebc6c0e9d0d8a4a519.json",
+					"name" : "OpenSSL::applink",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-MinSizeRel-d98249d14d62f6c6df42.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZLIB::ZLIB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZLIB__ZLIB-MinSizeRel-b84ca10a1d564b29a59a.json",
+					"name" : "ZLIB::ZLIB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "httplib::httplib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-httplib__httplib-MinSizeRel-e82300bfa318c35ec1e4.json",
+					"name" : "httplib::httplib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nlohmann_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nlohmann_json-MinSizeRel-2052c93a07e8f852f95d.json",
+					"name" : "nlohmann_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nlohmann_json::nlohmann_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nlohmann_json__nlohmann_json-MinSizeRel-386c4e012c26064fcb2f.json",
+					"name" : "nlohmann_json::nlohmann_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlicommon::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlicommon-MinSizeRel-4f4d85ca40490ee4c954.json",
+					"name" : "unofficial::brotli::brotlicommon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlidec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlidec-MinSizeRel-c45aabe1da518f87aa63.json",
+					"name" : "unofficial::brotli::brotlidec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlienc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlienc-MinSizeRel-0be58b27330290393e7f.json",
+					"name" : "unofficial::brotli::brotlienc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::sqlite3::sqlite3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__sqlite3__sqlite3-MinSizeRel-e06804a626efd483f871.json",
+					"name" : "unofficial::sqlite3::sqlite3",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-MinSizeRel-b5805d5c08fd3d92def4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AIEmailAssistant",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-4f9a1c28328308fb8ba6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-0afd1f5d0af1a1dcae14.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ai_email_assistant::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ai_email_assistant-MinSizeRel-1e749925d6f1afef60d7.json",
+					"name" : "ai_email_assistant",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::ZLIB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__ZLIB-RelWithDebInfo-3d067edbdef3f9bb77a7.json",
+					"name" : "CURL::ZLIB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::libcurl_shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__libcurl_shared-RelWithDebInfo-13c0a439fd6f25d5dadb.json",
+					"name" : "CURL::libcurl_shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CURL::win32_winsock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CURL__win32_winsock-RelWithDebInfo-16f07cc063a3e2f4d1fb.json",
+					"name" : "CURL::win32_winsock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::Crypto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__Crypto-RelWithDebInfo-129d5f2be13f53aa4755.json",
+					"name" : "OpenSSL::Crypto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::SSL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__SSL-RelWithDebInfo-2a2cb073118c3cf7447c.json",
+					"name" : "OpenSSL::SSL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenSSL::applink::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenSSL__applink-RelWithDebInfo-c9ebc6c0e9d0d8a4a519.json",
+					"name" : "OpenSSL::applink",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-RelWithDebInfo-d98249d14d62f6c6df42.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZLIB::ZLIB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZLIB__ZLIB-RelWithDebInfo-b84ca10a1d564b29a59a.json",
+					"name" : "ZLIB::ZLIB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "httplib::httplib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-httplib__httplib-RelWithDebInfo-e82300bfa318c35ec1e4.json",
+					"name" : "httplib::httplib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nlohmann_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nlohmann_json-RelWithDebInfo-2052c93a07e8f852f95d.json",
+					"name" : "nlohmann_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nlohmann_json::nlohmann_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nlohmann_json__nlohmann_json-RelWithDebInfo-386c4e012c26064fcb2f.json",
+					"name" : "nlohmann_json::nlohmann_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlicommon::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlicommon-RelWithDebInfo-4f4d85ca40490ee4c954.json",
+					"name" : "unofficial::brotli::brotlicommon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlidec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlidec-RelWithDebInfo-c45aabe1da518f87aa63.json",
+					"name" : "unofficial::brotli::brotlidec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::brotli::brotlienc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__brotli__brotlienc-RelWithDebInfo-0be58b27330290393e7f.json",
+					"name" : "unofficial::brotli::brotlienc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unofficial::sqlite3::sqlite3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unofficial__sqlite3__sqlite3-RelWithDebInfo-e06804a626efd483f871.json",
+					"name" : "unofficial::sqlite3::sqlite3",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-b5805d5c08fd3d92def4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AIEmailAssistant",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-4f9a1c28328308fb8ba6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-0afd1f5d0af1a1dcae14.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ai_email_assistant::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ai_email_assistant-RelWithDebInfo-c564013583236c0a009a.json",
+					"name" : "ai_email_assistant",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/turen/Desktop/AIEmailAssistant/build",
+		"source" : "C:/Users/turen/Desktop/AIEmailAssistant"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}

@@ -1,0 +1,3 @@
+C:/Users/turen/Desktop/AIEmailAssistant/build/CMakeFiles/ai_email_assistant.dir
+C:/Users/turen/Desktop/AIEmailAssistant/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/turen/Desktop/AIEmailAssistant/build/CMakeFiles/ZERO_CHECK.dir
